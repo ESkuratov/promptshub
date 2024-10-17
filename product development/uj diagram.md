@@ -1,0 +1,1 @@
+give me mermaid code for user journey diagram for the above use case

@@ -1,0 +1,1 @@
+give me mermaid code for er-diagram for the above use case

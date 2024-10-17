@@ -1,0 +1,1 @@
+give me mermaid code for mind map diagram for the above use case
