@@ -1,0 +1,9 @@
+c:\PyTorch\myvenv\Scripts>activate
+(myvenv) pip install torch
+c
+(myvenv) pip install ipykernel
+(myvenv) python -m ipykernel install --user --name torch_kernel
+(myvenv) pip3 install numpy
+(myvenv) pip install transformers
+(myvenv) pip install transformers torch torchvision
+(myvenv) pip install sentencepiece
