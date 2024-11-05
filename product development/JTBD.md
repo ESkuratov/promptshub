@@ -26,16 +26,15 @@ START OF PROMPT:
 [DOC_LANGUAGE] = Russian
 [BRD] = BRD_ER_online_20.09.2024
 
-you are a [ROLE], Write Product Requirement Document for [PROJECT_NAME] use information from file [BRD] include the next elements:
+As a [ROLE], create a Product Requirement Document for the project [PROJECT_NAME] using information from the file [BRD] Include the following elements:
 
 ## INSTRUCTIONS
-1. write JTBD use Example 1.  that resolve [PROJECT_NAME] project and prioritize on frequence 
-2. group list of JTBD like Example 2, Example 3, Example 4.
-
+1. Write Jobs To Be Done (JTBD) using the format from Example 1, focusing on the needs that the [PROJECT_NAME] project addresses, and prioritize them based on frequency.
+2. Organize the list of JTBD into groups similar to Example 2, Example 3, and Example 4.
 
 ## Output Format
-1. write answers on [DOC_LANGUAGE]
-2. use clear style and technicla words
+1. Provide your answers in [DOC_LANGUAGE]
+2. Use a clear style and technical language.
 
 ## EXAMPLES
 
