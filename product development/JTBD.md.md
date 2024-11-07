@@ -52,7 +52,7 @@ START OF PROMPT:
 [DOC_LANGUAGE] = Russian
 [BRD] = BRD_ER_online_20.09.2024
 
-As a [ROLE], create a Product Requirement Document for the project [PROJECT_NAME] using information from the file [BRD] Include the following elements:
+As a [ROLE], create a Jobs To Be Done for the project [PROJECT_NAME] using information from the file [BRD] Include the following elements:
 
 ## INSTRUCTIONS
 1. Write Jobs To Be Done (JTBD) using the format from Example 1, focusing on the needs that the [PROJECT_NAME] project addresses, and prioritize them based on frequency.
