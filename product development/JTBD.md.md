@@ -1,7 +1,33 @@
 -----
 TEASER PROMT
 
+START OF PROMPT:
 
+# Fast research audience
+
+[PROJECT_NAME] = Онлайн ЧДП
+[ROLE] = Product owner
+[DOC_LANGUAGE] = Russian
+[BRD] = BRD_ER_online_20.09.2024
+
+As a [ROLE], create a Product Requirement Document for the project [PROJECT_NAME] using information from the file [BRD] Include the following elements:
+
+## INSTRUCTIONS
+1. Write Jobs To Be Done (JTBD) using the format from Example 1, focusing on the needs that the [PROJECT_NAME] project addresses, and prioritize them based on frequency.
+
+
+## Output Format
+1. Provide your answers in [DOC_LANGUAGE]
+2. Use a clear style and technical language.
+
+## EXAMPLES
+
+### Example 1. JTBD Format
+```
+Situation: When [describe the situation or context the user is in],
+Job: I want to [describe the task or job the user wants to accomplish],
+Outcome: So that [describe the desired outcome or benefit the user seeks].
+```
 
 -----
 VARS:
