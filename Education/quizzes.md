@@ -18,7 +18,7 @@ As a [ROLE], create 10 question multiple choice quiz for the [LEVEL_COURSE] [TYP
 ## INSTRUCTIONS
 1. Create a list of 10 questions for this quizze
 2. write 5 variants of answers that include only one right answered
-3. for each right answer change number prioritazion
+3. change posiotion for each right answer 
 4. put for each right answer simbol "*" at the end of proposal. 
 
 
