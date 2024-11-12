@@ -16,8 +16,6 @@ As a [RPODUCER], explain a [TERM] like I am [CONSUMER].
 4. write analogy that can explain main principle of [TERM]
 
 
-
-
 ## Output Format
 1. Format it as bullet points, with clear organization and structure. 
 3. The outline should be comprehensive yet concise, covering key topics, learning goals, and assessments. 
