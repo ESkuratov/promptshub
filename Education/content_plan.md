@@ -1,5 +1,5 @@
 START OF PROMPT:
-# Create Topic for Education 
+# Create content plan for Education 
 
 [COURCE] = The architecture Large language models
 [ROLE] = data science teacher
@@ -22,7 +22,6 @@ As a [ROLE], create a content plan for [LEVEL_COURSE] [TYPE_COURS] on the topic 
 
 ## Output Format
 1. Format it as bullet points, with clear organization and structure. 
-2. Make sure the unit provides a strong
-overview of Ancient Greek history and culture.
+2. Make sure the unit provides a strong overview of [COURCE]
 3. The outline should be comprehensive yet concise, covering key topics, learning goals, and assessments. 
 4. Provide your answers in [DOC_LANGUAGE]

@@ -41,7 +41,6 @@ a breakdown of the unit into 5-7 lessons with titles and 1-2 sentence
 
 ## Output Format
 1. Format it as bullet points, with clear organization and structure. 
-2. Make sure the unit provides a strong
-overview of Ancient Greek history and culture.
+2. Make sure the unit provides a strong overview of [TOPIC].
 3. The outline should be comprehensive yet concise, covering key topics, learning goals, and assessments. 
 4. Provide your answers in [DOC_LANGUAGE]
