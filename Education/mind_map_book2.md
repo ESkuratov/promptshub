@@ -27,7 +27,7 @@ REVISED PROMPT
 # Goal: Create a Mind Map in Markmap Format
 # use markmap.js.org for visualisation 
 
-[ROLE] = cryptocurrency expert
+[ROLE] = AI expert
 [DOCS] = book
 
 As a [ROLE], generate a detailed and structured mind map in the Markmap format, including the following elements:
@@ -49,3 +49,10 @@ As a [ROLE], generate a detailed and structured mind map in the Markmap format, 
 ## ADDITIONAL GUIDELINES
 1. If the content of the book is limited, focus on the most significant aspects.
 2. Ensure the mind map reflects current and important topics related to cryptocurrency.
+
+
+----
+Case studies
+Chapter summaries
+Key terms
+Exercises
