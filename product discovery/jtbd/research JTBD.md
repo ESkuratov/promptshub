@@ -45,8 +45,6 @@ you are a [ROLE], Write Product Requirement Document for [PROJECT_NAME] use info
 
 
 
-
-
 # Output Format
 1. write answers on [DOC_LANGUAGE]
 2. use clear style and technicla words
